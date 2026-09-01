@@ -4,6 +4,7 @@ Live VIBGYOR Spectrum Analysis
 
 A real-time VIBGYOR spectrum analyzer built with Python, OpenCV, NumPy, and Matplotlib. The project captures live video from a webcam, converts the image into a spatial intensity profile, maps camera pixels to approximate wavelengths, and displays the resulting spectrum across the visible VIBGYOR range.
 
+
 Features
 Real-time webcam capture using OpenCV
 VIBGYOR wavelength classification from 380–700 nm
